@@ -172,6 +172,6 @@ def pilih():
 
 def home():
         menu()
-        pilih()
 
-home()
+
+
