@@ -6,5 +6,5 @@ apt install git -y && apt install python2 -y && git clone https://github.com/MRH
 
 # Credits :
 IG : @__RizzOreo__
-Telegram : t.me/Nganu404
+Telegram : t.me/ExploitID1
 Made By ExploitID404 With LOVE
